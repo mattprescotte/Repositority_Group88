@@ -229,7 +229,7 @@ void TextureManager::Clear() {
 int main()
 {
     string input;
-    ifstream inputFile("Copy of Vertex Values.csv");
+    ifstream inputFile("basketball.csv");
     //ifstream inputFile("../Vertex Values.xlsx");
 
     //cout << "Enter numeric value: " << endl;
